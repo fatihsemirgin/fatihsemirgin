@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Fatih Semirgin</h1>
 <h3 align="center">I'm a computer engineering student at Dokuz Eylul University.</h3>
 
-- 🔭 I’m currently working on **on web (Fronted for now)**
+- 🔭 I’m currently working on **on web (Fronted and Backend)**
 
-- 🌱 I’m currently learning **html css javascript**
+- 🌱 I’m currently learning **PHP and FRAMEWORK:CODEIGNITER 3**
 
 - 📫 How to reach me **fatih.semirgin@gmail.com**
 
