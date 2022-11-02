@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **on web (Fronted and Backend)**
 
-- 🌱 I’m currently learning **PHP and Framework : CODEIGNITER 3**
+- 🌱 I’m currently learning **PHP - Framework : CODEIGNITER 3 - MySql**
 
 - 📫 How to reach me **fatih.semirgin@gmail.com**
 
