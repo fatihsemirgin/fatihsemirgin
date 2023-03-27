@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fatih Semirgin</h1>
 <h3 align="center">I'm a computer engineering student at Dokuz Eylul University.</h3>
 
-- 🔭 I’m currently working on **on web (Fronted and Backend)**
+- 🔭 I’m currently working on **on web**
 
 - 🌱 I’m currently learning **PHP - Framework : CODEIGNITER 3 - MySql**
 
