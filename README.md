@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Fatih Semirgin</h1>
-<h3 align="center">I'm a computer engineering student at Dokuz Eylul University.</h3>
+<h3 align="center">I'm a Computer Engineer</h3>
 
 ###
 
-<br clear="both">
 
 - 🔭 I’m currently working **on Web**
 
