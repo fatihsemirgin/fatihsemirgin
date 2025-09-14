@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working **on Web**
 
-- 🌱 I’m currently learning **ASP.NET Core 6 - Web API - RESTful**
+- 🌱 I’m currently learning **ASP.NET - Web API - RESTful**
 
 - 📫 How to reach me &rarr; **fatih.semirgin@gmail.com**
 
