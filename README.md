@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/MartinVerreault/MartinVerreault/master/wave.gif" width="30px"> Hi, I'm Fatih Semirgin
+# <img src="https://media.giphy.com/media/hvRJCLzz8CztK/giphy.gif" width="35px"> Hi, I'm Fatih Semirgin
 
 <p align="left">
   <a href="https://fatihsemirgin.github.io/" target="_blank">
@@ -14,11 +14,12 @@
 
 ### 👨‍💻 About Me
 
-I am a **Computer Engineer** focused on building scalable web applications and efficient backend systems. Currently working as a **Software Engineer at IBTECH**, I bridge the gap between complex logic and seamless user experiences.
+I am a **Computer Engineer** and **Software Engineer at IBTECH**. I specialize in building high-performance web architectures and scalable backend systems. I am passionate about clean code and innovative engineering solutions.
 
-- 🔭 **Working on:** Advanced Web Architectures and In-house Enterprise Solutions.
-- 🌱 **Learning:** ASP.NET Core Web API, Microservices, and RESTful Best Practices.
-- ⚡ **Fun Fact:** I am a finalist in GBYF 2024 with an IoT-based Earthquake Early Warning System.
+- 🏆 **GBYF 2024 Award Winner:** Earned **1st Place** and **2nd Place** in different categories with an IoT & Web-based Earthquake Early Warning System.
+- 🔭 **Currently Working:** Developing enterprise-level in-house web platforms and RESTful services.
+- 🌱 **Learning:** Deep diving into Microservices architecture and Cloud-Native development.
+- ✉️ **Contact:** Feel free to reach out for collaboration or tech talk!
 
 ---
 
@@ -30,6 +31,7 @@ I am a **Computer Engineer** focused on building scalable web applications and e
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 </p>
+
 <p align="left">
   <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
@@ -37,6 +39,7 @@ I am a **Computer Engineer** focused on building scalable web applications and e
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
+
 <p align="left">
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
